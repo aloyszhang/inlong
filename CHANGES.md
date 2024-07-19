@@ -31,7 +31,6 @@
 | [INLONG-10113](https://github.com/apache/inlong/issues/10113) | [Improve][Agent] Delete useless code                                                                                      |
 | [INLONG-10115](https://github.com/apache/inlong/issues/10115) | [Improve][Agent] Offset needs to be changed to save in string format because some data sources have non integer positions |
 | [INLONG-10187](https://github.com/apache/inlong/issues/10187) | [Improve][Agent] Need to handle situations where timeoffset is empty, default to no offset                                |
-| [INLONG-10189](https://github.com/apache/inlong/issues/10189) | [Improve][Agent] There is a risk of agent getting stuck after SDK initialization exception                                |
 | [INLONG-10191](https://github.com/apache/inlong/issues/10191) | [Improve][Agent] Delete useless code                                                                                      |
 | [INLONG-10210](https://github.com/apache/inlong/issues/10210) | [Improve][Agent] The installer needs to add a script for environment initialization                                       |
 | [INLONG-10268](https://github.com/apache/inlong/issues/10268) | [Improve][Agent] Suggest not using task ID as the data version                                                            |
