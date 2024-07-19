@@ -25,12 +25,13 @@
 # Release InLong 1.13.0 - Released (as of 2024-07-18)
 ### Agent
 | <div style="width:400px;">ISSUE</div>                         | <div style="width:950px;">Summary</div>                                                                                   |
-|:---------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [INLONG-9801](https://github.com/apache/inlong/issues/9801)   | [Umbrella][Agent] Add an agent installer module for agent installation                                                    |      
 | [INLONG-10107](https://github.com/apache/inlong/issues/10107) | [Improve][Agent] There is a bug in updating the module configuration                                                      |
 | [INLONG-10113](https://github.com/apache/inlong/issues/10113) | [Improve][Agent] Delete useless code                                                                                      |
 | [INLONG-10115](https://github.com/apache/inlong/issues/10115) | [Improve][Agent] Offset needs to be changed to save in string format because some data sources have non integer positions |
 | [INLONG-10187](https://github.com/apache/inlong/issues/10187) | [Improve][Agent] Need to handle situations where timeoffset is empty, default to no offset                                |
+| [INLONG-10189](https://github.com/apache/inlong/issues/10189) | [Improve][Agent] There is a risk of agent getting stuck after SDK initialization exception                                |
 | [INLONG-10191](https://github.com/apache/inlong/issues/10191) | [Improve][Agent] Delete useless code                                                                                      |
 | [INLONG-10210](https://github.com/apache/inlong/issues/10210) | [Improve][Agent] The installer needs to add a script for environment initialization                                       |
 | [INLONG-10268](https://github.com/apache/inlong/issues/10268) | [Improve][Agent] Suggest not using task ID as the data version                                                            |
