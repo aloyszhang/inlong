@@ -25,8 +25,8 @@
 # Release InLong 1.13.0 - Released (as of 2024-07-18)
 ### Agent
 | <div style="width:135px">ISSUE</div>                          | <div style="width:1000px">Summary</div>                                                                                   |
-|:--------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| [INLONG-10094](https://github.com/apache/inlong/issues/10094) | [Improve][Agent] The task record for data supplementation has not expired                                                 |
+|:---------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [INLONG-9801](https://github.com/apache/inlong/issues/9801)    | [Umbrella][Agent] Add an agent installer module for agent installation                                                                                                               |      
 | [INLONG-10107](https://github.com/apache/inlong/issues/10107) | [Improve][Agent] There is a bug in updating the module configuration                                                      |
 | [INLONG-10113](https://github.com/apache/inlong/issues/10113) | [Improve][Agent] Delete useless code                                                                                      |
 | [INLONG-10115](https://github.com/apache/inlong/issues/10115) | [Improve][Agent] Offset needs to be changed to save in string format because some data sources have non integer positions |
