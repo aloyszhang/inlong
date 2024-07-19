@@ -24,7 +24,7 @@
 
 # Release InLong 1.13.0 - Released (as of 2024-07-18)
 ### Agent
-| <div style="width:400px;">ISSUE</div>                         | <div style="width:950px">Summary</div>                                                                                    |
+| <div style="width:400px;">ISSUE</div>                         | <div style="width:950px;">Summary</div>                                                                                   |
 |:--------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | [INLONG-9801](https://github.com/apache/inlong/issues/9801)   | [Umbrella][Agent] Add an agent installer module for agent installation                                                    |      
 | [INLONG-10107](https://github.com/apache/inlong/issues/10107) | [Improve][Agent] There is a bug in updating the module configuration                                                      |
